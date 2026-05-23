@@ -1,0 +1,7 @@
+<%@ page pageEncoding="UTF-8" %>
+</main>
+<footer class="site-footer">
+    <span>Java Servlet + JSP + JSTL MVC E-Ticaret Portalı</span>
+</footer>
+</body>
+</html>

@@ -1,0 +1,74 @@
+[
+  {
+    "file": "01-ana-sayfa-urun-listeleme.png",
+    "title": "Ana sayfa ve aktif ürün listeleme"
+  },
+  {
+    "file": "02-kategori-filtreleme.png",
+    "title": "Kategoriye göre ürün listeleme"
+  },
+  {
+    "file": "03-urun-arama.png",
+    "title": "Ürün arama sonucu"
+  },
+  {
+    "file": "04-urun-detay.png",
+    "title": "Ürün detay sayfası ve stok bilgisi"
+  },
+  {
+    "file": "05-kullanici-kayit.png",
+    "title": "Kullanıcı kayıt formu"
+  },
+  {
+    "file": "06-kullanici-giris.png",
+    "title": "Kullanıcı giriş formu"
+  },
+  {
+    "file": "07-sepet.png",
+    "title": "Session tabanlı sepet sayfası"
+  },
+  {
+    "file": "08-siparis-basarili.png",
+    "title": "Sipariş oluşturma sonrası başarı mesajı"
+  },
+  {
+    "file": "09-siparislerim.png",
+    "title": "Kullanıcının kendi siparişleri"
+  },
+  {
+    "file": "10-siparis-detay.png",
+    "title": "Sipariş detay sayfası"
+  },
+  {
+    "file": "11-admin-giris.png",
+    "title": "Admin giriş sayfası"
+  },
+  {
+    "file": "12-admin-dashboard.png",
+    "title": "Yönetim paneli özet ekranı"
+  },
+  {
+    "file": "13-admin-kategori-yonetimi.png",
+    "title": "Admin kategori yönetimi"
+  },
+  {
+    "file": "14-admin-urun-yonetimi.png",
+    "title": "Admin ürün yönetimi"
+  },
+  {
+    "file": "15-admin-urun-formu.png",
+    "title": "Admin ürün ekleme/güncelleme formu"
+  },
+  {
+    "file": "16-admin-siparis-yonetimi.png",
+    "title": "Admin sipariş yönetimi"
+  },
+  {
+    "file": "17-admin-siparis-detay.png",
+    "title": "Admin sipariş detay ve durum güncelleme"
+  },
+  {
+    "file": "18-admin-kullanici-listeleme.png",
+    "title": "Admin kullanıcı listeleme"
+  }
+]
